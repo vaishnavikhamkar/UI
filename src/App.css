@@ -1,0 +1,111 @@
+#haider{
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+    font-weight: bolder;
+    margin:23px 0px;
+}
+
+.nav-link{
+    margin:0px 28px;
+    font-family: Arial, Helvetica, sans-serif!important;
+    color:black!important;
+}
+
+.navbar bg-light{
+    background-color: azure!important;
+}
+
+  
+
+.card{
+    margin: 13px 12px!important;
+    padding: 5px 5px!important;
+    Border-radius: 13px!important;
+    /* border-color:black!important; */
+    background-color: rgb(201 187 235 / 25%)!important;
+}
+
+h1{
+   font-family:Arial, Helvetica, sans-serif;
+   font-style: italic;
+}
+
+
+
+.btn{
+    margin: 0px -7px;
+    margin-left: -52px;
+    padding: 4px 21px;
+    color: blue!important;
+    background-color: #d6d6d6 !important;
+    border-radius: 12px;
+    text-align:center!important;
+}
+
+.btn-1{
+    margin:0px 0px;
+    padding:13px 165px;
+    color:black;
+    border-radius: 10px;
+    font-weight:bolder;
+}
+
+.btn:hover{
+    background-color: blue!important;
+    color: white !important;;
+}
+.btn-1:hover{
+    background-color: blue!important;
+    color: white !important;;
+}
+
+.card-footer{
+    text-align: center!important;
+}
+
+h6{
+    color:grey;
+}
+
+h2{
+    text-decoration: line-through!important;
+    font-size: xx-large!important;
+    font-weight: bolder!important;
+    display:inline-flex!important;
+    margin-left:71px!important;
+}
+
+h4{
+    background-color:#7ed38f!important;
+    margin-right: 280px!important;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.text-muted h4{
+    text-align:center!important;
+    background-color: white!important;
+    margin-right:0px!important;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius:0px;
+    padding:0px 0px!important;
+    background-color: rgb(201 187 235 / 25%)!important;
+}
+
+
+.Price{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: xx-large;
+    color:black;
+    text-align: left;
+    
+}
+
+
+.Price h6{
+   color:red;
+   margin-left:77px;
+   display:inline-flex;
+}
